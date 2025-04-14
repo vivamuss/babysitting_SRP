@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "67f3aa2a742875c1ee878dc6"
+  },
+  "name": "Sara",
+  "email": "sara@momtech.in",
+  "password": "$2b$10$yETVT3Pn4sgGyE9w3mL6e.io9YsA79HGJHuFms.sMmRiXFVebuxka",
+  "phone": "9874563210",
+  "created_at": {
+    "$date": "2025-04-07T10:34:18.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67efddd8252e294502c2ba7f"
+  },
+  "name": "Mom Tech",
+  "email": "mom@momtech.in",
+  "password": "$2b$10$smwMspHIeAHsCgTAeGQ65ehFWJlYRfdbV2kOyuyAev6QYO/MEoag6",
+  "phone": "9876543210",
+  "address": {
+    "street": "123 Tech Street",
+    "city": "Guindy",
+    "dist": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India"
+  },
+  "profile_picture": "https://th.bing.com/th/id/OIP.4XGHVYenEBOLYKkBMi83dgHaEu?w=264&h=180&c=7&r=0&o=5&pid=1.7",
+  "created_at": {
+    "$date": "2025-04-04T18:53:00.000Z"
+  },
+  "child": {
+    "name": "Child",
+    "age": {
+      "$date": "2018-06-01T00:00:00.000Z"
+    },
+    "healthoverview": [
+      {
+        "date":{
+          "$date": "2025-04-01T00:00:00.000Z"
+        },
+        "weight": 18.5,
+        "height": 95,
+        "temperature": 36
+      },
+      {
+        "date":{
+          "$date": "2025-03-26T00:00:00.000Z"
+        },
+        "weight": 5,
+        "height": 60,
+        "temparature": 35
+      },
+      {
+        "date": {
+          "$date": "2025-04-07T11:53:08.387Z"
+        },
+        "weight": 12,
+        "height": 12,
+        "temperature": 32
+      }
+    ],
+    "medicalcondition": {
+      "allergy": [
+        "peanut",
+        "soya"
+      ]
+    },
+    "_id": {
+      "$oid": "67f3bca47d27fb9a5f1a810a"
+    }
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "67efcf6f2a2c42502befd408"
+  },
+  "name": "enma",
+  "email": "enma@momtech.in",
+  "password": "$2b$10$tC7lz8tBWtZyPxltZ9pSWO.KYeqkPp7I0MOtwehaU1QTHvEbg9FmS",
+  "phone": "9874563210",
+  "verification": false,
+  "verificationToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImVubWFAbW9tdGVjaC5pbiIsImlhdCI6MTc0Mzc2OTQ1NX0.JCUiogOkN8Xo4fBG1Hmb7wC-XQ-4lBbV0vRP7s-wPqk",
+  "children": [],
+  "createdAt": {
+    "$date": "2025-04-04T12:24:15.829Z"
+  },
+  "__v": 0
+}]

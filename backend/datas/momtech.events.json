@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "67f25ea4d96c47e6328ef795"
+  },
+  "title": "Polio",
+  "description": "polio vacaine in Applo",
+  "date": {
+    "$date": "2026-02-02T00:00:00.000Z"
+  },
+  "location": "adayar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d8579c89e8b23d423f1d2"
+  },
+  "title": "Vaccination Reminder",
+  "description": "Polio vaccination camp.",
+  "date": {
+    "$date": "2025-04-10T00:00:00.000Z"
+  },
+  "location": "City Health Center",
+  "__v": 0
+}]

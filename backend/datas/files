@@ -1,1 +1,36 @@
+.
+├── chatbot
+│   ├── connect_telegram_bot.py
+│   └── momtech_questions.csv
+├── controllers
+├── files
+├── middleware
+├── models
+│   └── Babysitter.js
+├── package.json
+├── package-lock.json
+├── routes
+├── server.js
+└── uploads
+    ├── anaphylaxis.pdf
+    ├── babysitting.pdf
+    └── FirstAid.pdf
 
+7 directories, 10 files
+
+
+/babysitter-verification-backend
+│── /uploads                  # Temporary storage for uploaded files
+│── /models                   
+│   └── Babysitter.js         # Mongoose model
+│── /routes                   
+│   ├── upload.js             # Handles document uploads & verification
+│   ├── babysitter.js         # Handles verification status check
+│── /config                   
+│   └── db.js                 # MongoDB connection
+│── /utils                    
+│   └── pdfParser.js          # Extracts text from PDFs
+│── .env                      # Environment variables
+│── server.js                 # Main backend entry point
+│── package.json              # Dependencies & scripts
+│── README.md                 # Documentation
