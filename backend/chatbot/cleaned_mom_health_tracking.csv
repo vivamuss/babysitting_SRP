@@ -1,0 +1,201 @@
+Sleep Duration (hrs),Sleep Quality (1-5),Exercise Duration (mins),Exercise Type,Meals Logged,Water Intake (glasses),Physical Symptoms,Pain Level (0-10),Mood / Emotional State,Stress Level (1-10),Anxiety Level (1-10),Energy Morning (0-10),Energy Afternoon (0-10),Energy Night (0-10),Feeling Overwhelmed?,Social Interaction,Time for Yourself?,Daily Journal Entry,Journal Sentiment,Breastfeeding Done Today?,Feeding Frequency,Feeding Duration (avg mins),Lactation Issues,Recovery Symptoms,Baby Sleep Affected Your Sleep?
+6.7,3,33,Stretching,1,10,Headache,3, Neutral,6,3,5,8,2,No,Partner,Yes,,Negative,Yes,0,20,Mastitis,Fever,Yes
+7.8,1,72,None,1,6,Headache,3, Neutral,7,3,4,6,9,Yes,Partner,No,Enjoyed a quiet moment,Positive,No,4,29,Mastitis,Bleeding,No
+6.9,2,22,Stretching,6,9,Headache,5, Happy,5,4,10,3,8,No,Friend,No,Baby cried a lot today,Neutral,No,5,19,Cracked Nipples,Bleeding,No
+4.5,2,23,None,4,10,None,10, Irritated,9,6,1,6,3,Yes,Family,No,Baby cried a lot today,Neutral,Yes,0,21,None,Fever,Yes
+5.6,2,0,Stretching,2,7,Headache,2, Happy,1,6,1,1,6,No,Friend,No,Enjoyed a quiet moment,Neutral,No,7,22,Pain,None,Yes
+7.0,2,48,Stretching,2,6,Backache,6, Irritated,4,4,10,6,8,Yes,Partner,Yes,Enjoyed a quiet moment,Neutral,Yes,5,9,Cracked Nipples,Body pain,Yes
+4.9,5,10,Walk,2,12,Backache,1, Neutral,10,10,4,8,8,No,Partner,Yes,,Negative,Yes,5,5,None,Fever,Yes
+8.9,1,46,Walk,5,6,Cramps,3, Neutral,8,3,9,9,1,Yes,None,Yes,Feeling exhausted,Neutral,No,8,21,Pain,Bleeding,Yes
+7.9,5,30,Walk,1,12,None,1, Sad,1,9,8,10,4,No,Partner,No,Had a decent day,Positive,Yes,2,5,None,Fever,Yes
+5.1,3,48,None,4,3,Backache,8, Happy,5,2,3,6,4,Yes,None,Yes,Feeling exhausted,Negative,No,12,6,None,Swelling,Yes
+7.5,3,76,Stretching,3,4,Cramps,7, Irritated,3,1,0,2,8,Yes,None,No,Enjoyed a quiet moment,Negative,Yes,10,25,Cracked Nipples,Fever,Yes
+8.3,1,76,None,6,3,None,2, Anxious,1,6,2,9,9,No,Friend,Yes,,Positive,Yes,0,7,Pain,Body pain,No
+5.2,4,56,None,5,7,Headache,6, Happy,7,9,5,0,2,Yes,Family,Yes,Enjoyed a quiet moment,Negative,Yes,4,9,Cracked Nipples,Body pain,Yes
+7.0,4,7,Stretching,6,10,Headache,4, Irritated,10,8,7,10,8,No,Partner,No,,Neutral,No,10,7,Cracked Nipples,Body pain,Yes
+8.1,5,7,Stretching,3,7,Headache,3, Irritated,7,5,6,10,0,No,Friend,No,Baby cried a lot today,Neutral,No,8,19,Pain,Body pain,No
+5.8,4,48,None,1,8,Cramps,9, Sad,9,3,8,4,4,No,None,No,Enjoyed a quiet moment,Neutral,Yes,0,16,Pain,Fever,Yes
+4.8,2,63,Yoga,1,12,Cramps,1, Irritated,4,3,2,1,10,Yes,Friend,No,Enjoyed a quiet moment,Neutral,No,0,15,Pain,Fever,Yes
+6.5,2,22,Walk,5,11,Cramps,2, Sad,1,4,3,10,4,Yes,Partner,Yes,,Negative,No,5,27,Mastitis,Bleeding,Yes
+5.2,4,13,Yoga,4,9,Headache,10, Irritated,1,8,10,4,9,No,Family,Yes,Had a decent day,Positive,No,3,6,Pain,None,Yes
+9.2,1,33,Yoga,1,4,Cramps,4, Happy,4,8,8,0,9,No,Family,No,Feeling exhausted,Positive,No,0,19,Pain,None,Yes
+8.1,2,82,None,6,5,Cramps,4, Sad,1,2,5,4,6,Yes,Partner,Yes,Baby cried a lot today,Neutral,Yes,5,30,Cracked Nipples,Body pain,Yes
+9.7,4,47,Walk,2,12,Backache,7, Neutral,3,4,5,2,3,Yes,Friend,Yes,Enjoyed a quiet moment,Positive,Yes,0,27,None,None,Yes
+4.4,4,47,None,6,9,Cramps,6, Neutral,2,8,1,1,8,No,None,No,Feeling exhausted,Positive,Yes,2,8,Pain,Fever,Yes
+5.5,1,27,Stretching,1,8,Headache,4, Neutral,9,6,4,1,4,No,Friend,No,Had a decent day,Negative,Yes,0,24,Pain,Swelling,No
+5.9,1,55,None,6,12,Backache,9, Happy,8,1,4,4,5,No,None,No,,Neutral,Yes,8,23,Pain,None,No
+8.2,4,20,Yoga,6,7,Headache,2, Sad,1,4,5,10,1,No,Partner,Yes,Had a decent day,Negative,No,7,13,Cracked Nipples,Swelling,Yes
+8.1,2,13,Stretching,4,10,Backache,4, Sad,5,10,10,8,10,No,Family,No,Had a decent day,Neutral,Yes,12,18,None,Bleeding,Yes
+6.1,3,54,None,4,9,Cramps,1, Irritated,6,5,7,0,2,No,Friend,Yes,,Negative,Yes,4,6,None,Bleeding,Yes
+7.7,3,31,Walk,6,10,Headache,3, Sad,5,3,5,3,5,No,Friend,No,Enjoyed a quiet moment,Positive,No,7,22,None,Bleeding,No
+8.7,3,42,None,2,11,Cramps,1, Irritated,1,1,5,7,6,No,None,No,Baby cried a lot today,Negative,Yes,8,24,Pain,Swelling,No
+8.5,1,88,Yoga,4,4,Backache,5, Happy,2,4,4,2,2,No,Partner,No,Baby cried a lot today,Positive,No,8,11,None,Bleeding,No
+6.6,3,82,Yoga,4,3,Cramps,10, Happy,2,5,6,8,10,Yes,Friend,Yes,Enjoyed a quiet moment,Positive,No,3,11,Mastitis,Swelling,No
+9.3,5,74,Stretching,6,12,Cramps,5, Happy,10,6,9,7,9,No,Partner,No,Baby cried a lot today,Negative,Yes,9,7,Mastitis,Bleeding,Yes
+7.2,3,27,Yoga,6,6,Backache,5, Irritated,4,2,7,7,5,No,Family,Yes,,Positive,No,4,5,Pain,Fever,No
+7.2,5,70,Walk,1,5,Backache,2, Irritated,10,2,3,2,1,Yes,Friend,No,Feeling exhausted,Negative,No,2,26,None,None,Yes
+8.2,5,37,Walk,5,3,Cramps,1, Anxious,1,6,7,3,1,No,Family,Yes,Feeling exhausted,Positive,Yes,2,18,None,None,Yes
+9.0,3,83,Walk,1,11,Backache,7, Neutral,5,3,10,8,8,No,Friend,No,,Positive,No,0,8,Cracked Nipples,None,No
+5.9,2,45,Yoga,2,11,Headache,4, Irritated,1,6,10,0,3,Yes,Family,Yes,Enjoyed a quiet moment,Negative,Yes,9,27,Pain,None,Yes
+9.8,3,17,Walk,3,7,Headache,7, Sad,3,3,6,0,1,No,Family,No,Had a decent day,Positive,Yes,11,16,None,Fever,Yes
+7.6,2,34,None,5,7,Cramps,2, Neutral,5,6,0,2,0,Yes,Family,No,Had a decent day,Negative,Yes,1,5,Mastitis,None,Yes
+7.9,4,75,None,6,10,Backache,2, Irritated,1,4,0,3,6,Yes,Friend,No,Enjoyed a quiet moment,Neutral,No,7,8,None,None,Yes
+9.3,4,85,None,6,11,Cramps,10, Anxious,8,10,8,6,1,Yes,Partner,No,,Neutral,No,7,18,Mastitis,Bleeding,Yes
+7.7,3,36,Walk,1,10,Cramps,8, Neutral,5,6,10,5,7,Yes,Family,No,Enjoyed a quiet moment,Neutral,No,3,9,Mastitis,Swelling,Yes
+6.9,1,8,Walk,6,12,Headache,1, Neutral,7,7,3,8,2,No,Family,Yes,Enjoyed a quiet moment,Neutral,No,0,11,Pain,Body pain,Yes
+6.6,1,72,Walk,3,5,None,6, Neutral,3,5,10,8,2,No,Friend,Yes,Feeling exhausted,Positive,Yes,11,8,Cracked Nipples,Swelling,Yes
+6.6,3,85,Walk,5,9,Cramps,4, Anxious,8,6,5,6,5,Yes,Partner,Yes,Enjoyed a quiet moment,Neutral,No,11,24,Pain,Body pain,Yes
+9.1,1,35,None,1,12,Cramps,3, Anxious,2,10,4,10,2,Yes,Partner,No,Enjoyed a quiet moment,Positive,No,12,16,Mastitis,None,Yes
+8.2,5,47,Stretching,3,10,Cramps,5, Happy,9,2,6,8,4,Yes,None,Yes,,Positive,No,6,7,None,Swelling,Yes
+9.3,3,73,None,6,6,Cramps,9, Anxious,7,10,5,2,6,No,Friend,No,Feeling exhausted,Neutral,No,1,6,None,None,Yes
+7.7,1,21,Walk,5,8,Backache,9, Irritated,8,8,2,0,10,No,Family,No,,Negative,Yes,0,26,None,Swelling,Yes
+6.7,5,24,Yoga,2,3,None,6, Neutral,6,8,9,1,10,No,None,No,Had a decent day,Neutral,No,11,22,Pain,Fever,Yes
+7.0,2,30,Walk,4,3,Headache,2, Anxious,7,4,3,3,8,Yes,Family,Yes,,Positive,No,4,19,Mastitis,Fever,Yes
+8.1,5,32,None,4,4,Cramps,2, Irritated,5,5,9,5,1,Yes,Friend,No,Baby cried a lot today,Positive,Yes,0,24,None,Fever,Yes
+8.3,5,3,Stretching,3,3,Headache,0, Happy,6,5,3,7,4,Yes,None,No,Had a decent day,Negative,Yes,6,21,None,Bleeding,Yes
+6.0,2,47,Yoga,6,9,Headache,7, Sad,5,2,2,7,7,Yes,None,Yes,Feeling exhausted,Negative,Yes,9,15,Mastitis,Swelling,No
+5.3,4,90,Walk,1,5,Backache,10, Sad,3,1,4,1,3,No,None,No,Enjoyed a quiet moment,Neutral,Yes,10,7,Mastitis,Bleeding,Yes
+5.3,2,14,Stretching,3,7,Headache,1, Sad,7,10,5,5,4,No,None,Yes,Feeling exhausted,Positive,Yes,5,28,Mastitis,Fever,Yes
+4.4,3,25,Yoga,2,3,Cramps,10, Neutral,10,3,5,1,9,No,Partner,Yes,Had a decent day,Negative,Yes,2,28,None,Body pain,Yes
+8.2,3,73,None,5,7,Backache,3, Sad,5,8,2,3,8,Yes,Friend,No,Enjoyed a quiet moment,Positive,Yes,8,18,Pain,Bleeding,Yes
+5.3,4,19,Stretching,6,12,Headache,8, Irritated,8,7,0,4,1,No,Partner,No,Feeling exhausted,Negative,Yes,9,23,Mastitis,Body pain,Yes
+4.5,3,8,Walk,2,12,Backache,10, Happy,2,1,6,1,5,No,Friend,No,Had a decent day,Negative,No,9,18,Cracked Nipples,Fever,Yes
+5.3,5,30,Stretching,3,10,Backache,2, Sad,9,3,4,1,9,Yes,Family,No,Baby cried a lot today,Negative,No,5,14,Pain,Body pain,Yes
+9.8,5,89,Walk,1,10,Backache,0, Anxious,10,8,0,7,4,No,None,Yes,,Positive,No,4,9,None,Bleeding,Yes
+7.0,3,6,Yoga,6,3,Headache,3, Irritated,7,4,1,2,2,No,Friend,Yes,Had a decent day,Negative,No,9,15,None,Fever,Yes
+8.1,3,10,None,1,8,Cramps,5, Irritated,5,6,3,1,10,No,Family,Yes,Had a decent day,Negative,Yes,11,21,Mastitis,Fever,Yes
+7.6,1,54,None,6,10,Backache,1, Neutral,9,5,3,0,0,Yes,Partner,No,Feeling exhausted,Negative,No,9,7,Cracked Nipples,Swelling,Yes
+7.1,2,78,None,2,11,Cramps,8, Anxious,1,2,7,7,1,No,Partner,Yes,Had a decent day,Positive,Yes,9,13,None,Fever,Yes
+4.6,4,20,Yoga,4,4,Backache,1, Anxious,4,8,2,0,5,Yes,None,Yes,,Negative,Yes,7,6,Cracked Nipples,Fever,Yes
+8.6,5,55,Walk,3,3,Headache,8, Anxious,6,8,4,7,5,Yes,Partner,Yes,,Neutral,Yes,9,12,None,Fever,Yes
+8.8,4,18,Walk,2,3,Backache,5, Happy,7,9,9,1,8,No,Friend,No,Baby cried a lot today,Positive,No,2,19,Pain,None,Yes
+7.3,5,88,Yoga,1,9,None,10, Irritated,2,10,6,5,4,Yes,Friend,No,Enjoyed a quiet moment,Negative,Yes,1,24,Mastitis,Swelling,Yes
+5.1,1,60,Yoga,6,6,Backache,3, Sad,8,2,2,0,10,No,Friend,No,Enjoyed a quiet moment,Negative,Yes,5,10,Pain,Fever,Yes
+9.9,4,25,Walk,2,4,Backache,5, Anxious,6,1,5,4,9,Yes,Friend,No,Had a decent day,Positive,No,7,30,Mastitis,Body pain,Yes
+9.9,3,12,None,1,4,Cramps,10, Happy,6,7,1,1,9,No,None,No,Enjoyed a quiet moment,Positive,No,6,14,Cracked Nipples,Swelling,No
+8.7,5,60,Yoga,4,5,None,2, Happy,6,8,1,7,8,No,Friend,Yes,Had a decent day,Positive,No,12,13,None,Fever,No
+5.3,4,3,Stretching,4,8,Backache,3, Anxious,1,3,1,10,2,Yes,None,Yes,Feeling exhausted,Neutral,Yes,8,8,Pain,Bleeding,Yes
+4.7,4,73,Yoga,4,4,Backache,4, Neutral,2,2,1,4,1,Yes,Partner,Yes,,Negative,Yes,11,20,Pain,None,Yes
+6.9,3,35,Yoga,1,3,None,5, Happy,5,5,2,1,5,Yes,None,Yes,Enjoyed a quiet moment,Negative,No,6,13,Pain,None,No
+9.3,4,61,Walk,1,4,Cramps,8, Happy,6,5,0,2,5,No,Friend,Yes,,Positive,No,12,7,Cracked Nipples,Fever,Yes
+7.4,4,89,None,6,3,None,1, Happy,9,5,8,6,4,Yes,Family,No,Had a decent day,Positive,No,5,6,None,Fever,No
+7.4,4,39,Stretching,4,11,Cramps,8, Anxious,7,5,5,6,4,No,Friend,No,Baby cried a lot today,Positive,Yes,10,6,Cracked Nipples,None,Yes
+8.7,3,17,Walk,3,12,Cramps,6, Irritated,1,6,5,3,6,Yes,Family,No,Enjoyed a quiet moment,Negative,No,12,24,Pain,Body pain,Yes
+4.9,2,22,Yoga,6,5,Cramps,6, Neutral,5,1,8,2,2,Yes,None,No,Baby cried a lot today,Negative,No,9,26,Mastitis,None,Yes
+9.1,1,1,None,5,6,Headache,1, Irritated,3,5,4,7,2,No,Partner,No,,Positive,No,4,10,None,Fever,No
+5.3,4,57,Walk,4,8,Backache,6, Neutral,10,3,2,10,4,No,Friend,No,Baby cried a lot today,Positive,No,12,23,Cracked Nipples,Bleeding,Yes
+10.0,5,39,Yoga,6,3,Cramps,2, Anxious,2,2,0,9,5,No,None,No,,Negative,No,4,24,None,Body pain,Yes
+5.0,5,61,Walk,3,5,Headache,6, Happy,1,2,7,6,8,Yes,Family,No,Baby cried a lot today,Negative,No,9,26,Pain,Swelling,Yes
+9.9,4,8,Yoga,1,5,Cramps,0, Anxious,2,2,3,7,8,Yes,Partner,Yes,,Positive,Yes,6,25,Pain,Fever,Yes
+5.0,3,53,Yoga,2,10,Headache,8, Sad,6,4,8,0,0,Yes,Friend,Yes,,Positive,No,0,24,Pain,Body pain,Yes
+4.9,5,86,None,2,8,Cramps,6, Happy,4,1,5,1,7,Yes,None,Yes,Had a decent day,Negative,Yes,7,17,Mastitis,Body pain,Yes
+6.4,5,53,None,6,11,Backache,7, Neutral,4,6,6,1,0,Yes,Family,Yes,Had a decent day,Neutral,Yes,6,27,None,Bleeding,Yes
+7.9,5,82,None,4,12,None,10, Neutral,5,5,4,1,9,No,None,No,Had a decent day,Neutral,Yes,9,17,None,None,Yes
+5.8,1,48,Stretching,6,10,Headache,1, Neutral,6,4,5,8,1,Yes,Partner,Yes,Enjoyed a quiet moment,Negative,No,8,24,None,Swelling,No
+8.5,3,55,Stretching,4,11,None,7, Irritated,6,10,1,8,2,No,Family,Yes,Had a decent day,Negative,No,12,21,Mastitis,Body pain,Yes
+5.5,4,4,Yoga,2,5,Headache,5, Sad,4,6,7,6,4,No,Partner,No,Feeling exhausted,Positive,Yes,12,10,Cracked Nipples,Bleeding,No
+7.7,5,32,Yoga,5,5,Backache,10, Neutral,5,5,1,3,5,Yes,Friend,Yes,Feeling exhausted,Negative,No,7,8,Pain,Bleeding,Yes
+6.8,5,47,Yoga,1,5,Backache,4, Neutral,6,2,1,6,8,No,None,Yes,Baby cried a lot today,Positive,No,9,27,None,Bleeding,Yes
+6.1,1,8,Stretching,2,11,Backache,8, Irritated,5,10,6,4,7,Yes,Family,Yes,Enjoyed a quiet moment,Neutral,No,1,19,Mastitis,Swelling,Yes
+9.4,3,77,None,5,8,Backache,1, Happy,10,8,2,5,10,Yes,Family,Yes,Enjoyed a quiet moment,Negative,No,4,16,Cracked Nipples,Body pain,Yes
+4.6,2,8,None,3,4,Cramps,8, Neutral,10,6,3,4,1,Yes,Partner,Yes,Feeling exhausted,Negative,Yes,9,25,Pain,Swelling,Yes
+8.9,2,30,Yoga,4,5,None,5, Anxious,10,7,5,9,6,Yes,None,No,Feeling exhausted,Positive,No,8,30,Mastitis,Fever,Yes
+9.4,1,89,Walk,6,11,Cramps,2, Anxious,5,10,8,1,10,No,Family,No,Feeling exhausted,Positive,No,0,7,Pain,Fever,Yes
+7.6,3,80,Stretching,5,7,Backache,9, Happy,6,8,4,6,9,No,None,Yes,,Negative,No,4,25,Cracked Nipples,Bleeding,Yes
+9.2,4,48,None,3,9,Backache,2, Sad,8,2,2,8,3,Yes,Partner,Yes,,Neutral,No,3,5,Cracked Nipples,Swelling,Yes
+4.3,3,22,None,4,8,Backache,0, Sad,4,5,3,5,0,No,Friend,No,,Neutral,Yes,8,15,Cracked Nipples,None,Yes
+8.1,1,80,None,2,5,Cramps,8, Anxious,5,2,4,8,3,No,Family,Yes,,Positive,Yes,6,25,None,Body pain,Yes
+7.8,2,17,Yoga,1,9,None,9, Happy,7,9,9,6,4,Yes,Partner,Yes,,Negative,No,0,21,Cracked Nipples,Body pain,Yes
+5.9,1,81,Walk,5,6,Cramps,2, Happy,7,2,9,9,8,No,Partner,Yes,Enjoyed a quiet moment,Neutral,No,0,28,Mastitis,None,No
+9.2,2,54,None,5,3,Cramps,2, Neutral,9,8,2,1,10,No,Partner,Yes,Baby cried a lot today,Positive,Yes,5,15,Mastitis,Fever,Yes
+7.4,4,68,None,2,10,Headache,3, Neutral,6,6,9,5,6,Yes,Friend,Yes,,Neutral,No,2,27,Cracked Nipples,Body pain,Yes
+7.6,4,33,Walk,6,11,None,2, Happy,10,2,2,3,5,Yes,Partner,Yes,Enjoyed a quiet moment,Positive,Yes,3,13,Mastitis,Bleeding,Yes
+4.2,2,18,Walk,4,4,Backache,6, Neutral,1,10,3,5,0,No,Friend,No,,Neutral,No,3,19,Mastitis,Fever,Yes
+9.5,1,40,Stretching,5,5,None,3, Happy,10,7,8,2,10,No,None,Yes,Had a decent day,Negative,No,1,10,Cracked Nipples,Swelling,No
+8.7,4,57,Stretching,4,11,Cramps,9, Irritated,8,2,2,0,6,No,Family,Yes,Enjoyed a quiet moment,Negative,Yes,3,22,Cracked Nipples,Bleeding,Yes
+4.9,1,83,None,1,10,Cramps,4, Sad,10,8,5,3,8,Yes,Partner,Yes,Feeling exhausted,Negative,No,7,29,Cracked Nipples,Fever,Yes
+7.7,1,74,Stretching,6,10,Headache,1, Happy,7,6,1,7,8,Yes,Friend,No,,Neutral,No,4,10,Mastitis,Fever,Yes
+7.3,1,55,Stretching,1,5,Headache,10, Happy,7,10,3,2,7,Yes,Partner,No,Baby cried a lot today,Neutral,No,0,9,None,Bleeding,Yes
+8.6,2,84,Stretching,2,10,Cramps,5, Happy,8,1,3,2,0,No,None,No,Had a decent day,Neutral,No,6,17,None,Bleeding,No
+5.0,2,3,Stretching,4,9,None,8, Irritated,1,8,6,4,8,No,None,Yes,Enjoyed a quiet moment,Positive,Yes,12,28,None,Fever,Yes
+8.2,3,55,Walk,2,7,None,9, Anxious,4,8,8,1,6,Yes,Friend,No,Had a decent day,Negative,Yes,8,18,Cracked Nipples,Body pain,Yes
+6.2,5,77,Yoga,5,3,Headache,4, Neutral,3,4,7,0,0,No,None,No,Feeling exhausted,Negative,No,11,28,None,Swelling,Yes
+4.6,4,22,Stretching,5,6,None,0, Irritated,9,5,6,2,8,Yes,Family,No,Feeling exhausted,Neutral,No,5,8,Pain,Fever,Yes
+7.7,2,65,Yoga,2,7,Backache,8, Anxious,2,4,0,7,4,Yes,None,No,Enjoyed a quiet moment,Negative,Yes,6,30,Mastitis,Swelling,Yes
+8.3,3,7,Walk,2,8,Backache,7, Irritated,8,1,2,6,9,No,Family,No,Baby cried a lot today,Negative,No,5,20,Pain,Fever,Yes
+8.6,2,49,Yoga,2,5,Headache,6, Happy,5,2,5,6,5,Yes,None,Yes,Enjoyed a quiet moment,Negative,Yes,12,29,Cracked Nipples,Bleeding,Yes
+7.1,1,85,Yoga,5,12,Cramps,5, Happy,7,6,6,7,3,No,Family,Yes,Feeling exhausted,Positive,No,8,6,None,None,Yes
+4.6,2,20,Walk,4,4,None,10, Sad,3,9,9,6,7,Yes,Family,Yes,Had a decent day,Negative,Yes,5,22,Pain,Swelling,Yes
+5.7,4,15,None,2,8,Headache,9, Irritated,2,6,1,9,0,Yes,Family,No,Baby cried a lot today,Negative,No,4,19,Mastitis,Swelling,Yes
+4.2,3,19,Walk,5,4,Backache,2, Neutral,2,3,3,9,8,Yes,Friend,Yes,Baby cried a lot today,Positive,No,12,11,None,Swelling,Yes
+8.2,4,37,Stretching,4,9,Backache,10, Anxious,6,9,2,0,4,Yes,Partner,Yes,Had a decent day,Negative,No,11,25,None,None,No
+7.2,3,35,None,3,8,None,1, Happy,8,2,2,2,1,Yes,None,Yes,,Neutral,No,12,5,Cracked Nipples,Body pain,No
+7.8,5,82,Walk,2,7,Headache,5, Sad,4,7,0,1,5,No,Family,Yes,Baby cried a lot today,Negative,Yes,8,26,Cracked Nipples,None,Yes
+6.1,5,11,None,4,9,None,8, Anxious,10,9,8,3,6,No,Friend,Yes,Feeling exhausted,Negative,No,12,10,None,None,Yes
+5.2,2,48,Walk,1,6,Backache,0, Happy,3,1,6,3,6,Yes,Friend,Yes,Enjoyed a quiet moment,Neutral,Yes,0,28,Mastitis,Bleeding,Yes
+7.2,1,45,Stretching,3,5,Cramps,10, Irritated,4,4,5,0,0,Yes,Friend,Yes,Baby cried a lot today,Neutral,No,10,29,Cracked Nipples,Body pain,Yes
+9.4,3,28,Stretching,1,3,None,9, Irritated,10,7,3,4,2,Yes,Family,No,Feeling exhausted,Negative,Yes,11,13,None,Body pain,Yes
+5.3,1,13,None,5,4,Backache,4, Happy,8,8,2,2,1,No,None,No,,Negative,No,3,9,Pain,None,No
+7.4,2,58,Yoga,3,7,Cramps,1, Irritated,10,1,3,0,3,No,Partner,No,Enjoyed a quiet moment,Negative,Yes,12,23,Cracked Nipples,Bleeding,No
+6.4,1,5,Walk,5,12,None,4, Neutral,2,4,1,3,7,Yes,Friend,No,,Positive,No,6,25,None,Swelling,Yes
+5.9,3,75,Stretching,1,6,Headache,0, Happy,4,2,2,3,3,No,Partner,No,Enjoyed a quiet moment,Negative,Yes,11,30,Pain,Swelling,No
+6.9,2,64,Yoga,3,9,Backache,10, Anxious,2,10,10,4,7,Yes,Friend,Yes,Baby cried a lot today,Negative,Yes,11,19,Mastitis,Fever,Yes
+5.3,3,52,Stretching,3,10,None,3, Neutral,10,4,7,9,1,No,Family,No,Feeling exhausted,Positive,No,3,11,Cracked Nipples,Fever,Yes
+8.5,3,17,Walk,4,3,None,8, Anxious,8,8,6,8,10,No,Friend,No,Baby cried a lot today,Neutral,No,1,7,Pain,Swelling,Yes
+7.2,1,10,Stretching,4,10,Cramps,5, Neutral,3,10,1,0,9,Yes,Friend,Yes,Feeling exhausted,Negative,Yes,8,27,None,Swelling,No
+4.5,3,39,Yoga,4,12,Headache,2, Anxious,4,2,2,7,7,Yes,Family,Yes,Enjoyed a quiet moment,Positive,Yes,12,8,Cracked Nipples,Bleeding,No
+9.8,3,0,Walk,6,6,None,9, Irritated,2,4,2,2,8,Yes,Friend,No,Had a decent day,Positive,No,2,10,None,Swelling,Yes
+7.6,4,76,Yoga,5,6,Headache,5, Neutral,6,6,8,5,3,No,None,Yes,Baby cried a lot today,Positive,No,10,21,Mastitis,Bleeding,Yes
+7.0,1,7,Stretching,6,11,None,10, Sad,8,3,0,8,1,No,Family,Yes,,Positive,No,8,26,Cracked Nipples,Fever,Yes
+5.4,3,64,Yoga,4,12,Headache,1, Anxious,7,1,0,8,0,No,Friend,No,Baby cried a lot today,Positive,Yes,6,14,Cracked Nipples,Body pain,No
+6.2,3,38,Yoga,2,4,Cramps,7, Sad,2,6,9,2,4,Yes,None,Yes,,Positive,Yes,1,13,None,None,Yes
+7.8,5,46,Yoga,1,3,Headache,10, Happy,2,7,9,4,5,Yes,Family,No,Enjoyed a quiet moment,Neutral,Yes,5,19,Cracked Nipples,Bleeding,Yes
+9.6,3,12,Stretching,4,6,Backache,1, Neutral,5,3,8,10,9,No,None,Yes,Enjoyed a quiet moment,Negative,No,0,13,Cracked Nipples,Bleeding,Yes
+5.9,3,69,Walk,5,5,Cramps,4, Irritated,7,5,9,6,9,No,Partner,Yes,,Positive,Yes,0,16,None,Bleeding,Yes
+9.3,4,6,Yoga,1,3,Backache,3, Irritated,9,8,10,5,10,Yes,Family,No,Baby cried a lot today,Negative,No,0,27,Pain,Body pain,Yes
+4.9,4,81,Stretching,4,6,Backache,10, Irritated,6,7,4,2,7,No,None,No,Enjoyed a quiet moment,Positive,No,2,23,Mastitis,Body pain,Yes
+9.7,4,86,Stretching,1,5,Backache,5, Neutral,5,9,5,2,9,Yes,Friend,No,,Negative,Yes,9,30,Cracked Nipples,Fever,Yes
+8.2,3,74,Stretching,5,6,None,1, Neutral,2,3,9,2,4,No,Friend,Yes,Baby cried a lot today,Negative,No,9,22,Cracked Nipples,Body pain,Yes
+9.8,4,70,Stretching,3,6,None,10, Anxious,7,8,5,10,4,Yes,Family,No,Feeling exhausted,Neutral,No,0,12,Cracked Nipples,Body pain,Yes
+6.2,5,21,Stretching,3,10,Cramps,2, Sad,4,4,8,1,5,No,Partner,No,,Positive,Yes,5,26,Pain,Bleeding,No
+6.0,3,89,None,3,4,Headache,1, Irritated,4,10,3,3,4,No,Partner,No,Had a decent day,Positive,Yes,4,30,Mastitis,Body pain,Yes
+7.0,1,7,Stretching,4,6,Headache,3, Happy,2,7,4,4,10,Yes,Family,No,Had a decent day,Neutral,No,4,24,Mastitis,Bleeding,No
+9.9,3,78,Yoga,3,3,Backache,4, Irritated,6,10,1,7,1,No,Partner,No,Had a decent day,Negative,Yes,10,5,Cracked Nipples,Swelling,Yes
+4.9,4,25,None,4,7,Cramps,7, Neutral,2,7,9,9,3,No,Family,Yes,Enjoyed a quiet moment,Positive,No,10,14,Pain,Swelling,Yes
+6.4,3,72,Walk,3,7,None,2, Anxious,4,2,6,5,1,Yes,None,No,Had a decent day,Positive,No,2,28,None,None,No
+9.0,1,86,None,2,7,None,6, Anxious,6,6,4,0,7,No,Friend,Yes,,Positive,Yes,4,9,Pain,None,Yes
+8.4,2,26,Yoga,5,3,Backache,6, Sad,4,10,0,2,2,Yes,Partner,Yes,Enjoyed a quiet moment,Positive,Yes,4,17,Mastitis,Fever,Yes
+8.6,5,86,None,5,7,Cramps,3, Happy,5,3,5,9,0,Yes,None,Yes,Feeling exhausted,Positive,No,1,16,Mastitis,Fever,Yes
+8.9,3,11,Yoga,4,11,Backache,8, Happy,7,10,7,1,3,No,Partner,Yes,Baby cried a lot today,Positive,No,5,18,Cracked Nipples,Body pain,Yes
+7.7,4,39,Yoga,1,11,Backache,0, Anxious,10,7,2,9,7,No,Family,No,Feeling exhausted,Positive,No,4,11,Mastitis,None,Yes
+8.5,1,10,Stretching,1,6,Cramps,1, Irritated,8,5,5,8,8,No,Partner,Yes,Baby cried a lot today,Positive,Yes,4,18,Pain,Swelling,Yes
+9.8,4,28,Yoga,3,3,None,10, Sad,7,1,10,1,4,No,Family,No,Enjoyed a quiet moment,Neutral,No,7,16,None,Swelling,Yes
+7.0,3,67,Yoga,5,3,None,9, Sad,1,6,7,4,8,Yes,None,Yes,,Negative,No,3,28,Mastitis,Fever,Yes
+5.2,5,38,None,6,7,None,6, Irritated,1,4,3,8,4,No,Family,No,Baby cried a lot today,Negative,No,8,15,None,Body pain,Yes
+9.9,4,76,None,5,11,Backache,8, Happy,5,4,3,4,5,No,Family,No,Had a decent day,Positive,No,6,11,None,None,Yes
+7.3,1,36,None,1,12,None,5, Neutral,9,4,7,9,2,Yes,Friend,Yes,,Positive,Yes,4,20,None,Body pain,Yes
+7.7,1,41,None,5,11,Backache,6, Happy,9,6,9,4,4,Yes,Partner,No,Baby cried a lot today,Negative,Yes,2,17,None,Body pain,Yes
+4.1,2,24,Yoga,2,5,Cramps,0, Happy,8,6,10,9,2,Yes,Friend,No,Baby cried a lot today,Positive,No,3,11,None,Swelling,Yes
+7.2,2,29,Stretching,2,9,None,9, Sad,6,7,4,0,8,No,None,Yes,Enjoyed a quiet moment,Positive,No,2,6,Mastitis,Body pain,Yes
+8.0,3,55,Walk,1,11,Headache,7, Happy,6,7,5,3,1,Yes,None,No,Feeling exhausted,Negative,Yes,5,9,Pain,Body pain,Yes
+4.2,2,61,Walk,3,9,Backache,7, Happy,2,5,6,8,2,No,Family,Yes,,Neutral,Yes,10,11,Cracked Nipples,Swelling,Yes
+9.9,3,37,Stretching,6,12,Backache,9, Neutral,3,3,2,1,7,Yes,Partner,No,,Negative,Yes,9,24,None,Bleeding,No
+6.6,4,44,None,6,8,Backache,3, Anxious,3,3,4,10,2,No,None,Yes,,Negative,Yes,1,18,Mastitis,Swelling,No
+4.8,3,79,Walk,1,9,Backache,5, Neutral,5,2,10,2,1,No,None,Yes,,Negative,Yes,5,16,Pain,Body pain,No
+7.3,3,54,Stretching,4,6,Cramps,3, Sad,6,4,10,4,2,No,Friend,Yes,Had a decent day,Neutral,Yes,9,21,None,Bleeding,Yes
+7.0,5,28,Stretching,2,7,Headache,3, Happy,3,7,0,3,4,Yes,Family,Yes,,Neutral,Yes,8,9,Pain,Fever,Yes
+4.2,2,4,Yoga,6,9,None,5, Happy,6,7,0,8,3,Yes,Partner,No,,Positive,Yes,6,6,Mastitis,Swelling,Yes
+5.5,5,15,Yoga,1,11,Headache,1, Happy,9,2,4,6,9,Yes,None,No,Feeling exhausted,Neutral,No,4,19,Mastitis,Fever,Yes
+8.5,4,23,Walk,6,5,Cramps,10, Irritated,9,8,10,9,7,Yes,Family,Yes,Enjoyed a quiet moment,Neutral,Yes,5,24,Cracked Nipples,Swelling,Yes
+9.5,3,14,Stretching,4,3,Cramps,6, Sad,2,7,8,0,8,No,Friend,No,Feeling exhausted,Positive,No,12,9,Cracked Nipples,None,Yes
+6.2,1,43,Stretching,5,6,Backache,5, Neutral,5,9,3,8,0,No,Friend,No,Feeling exhausted,Negative,No,3,27,Pain,Body pain,Yes
+4.0,1,68,Stretching,4,6,Backache,4, Irritated,6,7,8,10,5,No,None,No,Had a decent day,Negative,Yes,2,27,Pain,Bleeding,Yes
+7.0,4,32,Yoga,6,11,Backache,7, Sad,8,3,0,8,2,No,None,No,Had a decent day,Positive,No,2,29,None,None,Yes
+6.2,5,2,Walk,6,8,Headache,3, Happy,7,4,7,8,6,Yes,Partner,Yes,,Positive,Yes,3,19,Cracked Nipples,Bleeding,Yes
+8.7,3,52,Yoga,5,4,Headache,1, Irritated,1,6,0,8,7,No,Friend,No,Enjoyed a quiet moment,Negative,No,1,27,Cracked Nipples,Fever,Yes
+8.5,5,61,Walk,3,11,Cramps,0, Anxious,1,5,1,5,7,Yes,None,No,,Neutral,No,10,26,None,None,Yes
+9.2,2,66,None,1,7,Backache,6, Sad,2,10,9,4,5,No,Family,Yes,Enjoyed a quiet moment,Negative,Yes,9,25,Cracked Nipples,Swelling,Yes
+7.8,5,26,Stretching,4,8,Headache,0, Anxious,5,9,1,3,3,Yes,Friend,Yes,Had a decent day,Negative,Yes,12,28,Cracked Nipples,None,Yes
+4.6,4,76,Walk,1,9,Backache,3, Irritated,10,4,7,1,9,Yes,None,Yes,Had a decent day,Neutral,Yes,1,6,None,Swelling,Yes
+6.8,3,50,Stretching,1,9,None,7, Irritated,4,5,8,10,3,Yes,Friend,Yes,Had a decent day,Positive,Yes,5,24,Pain,Body pain,No
+6.0,3,75,Stretching,6,4,Backache,1, Neutral,2,2,9,1,2,No,Friend,Yes,Feeling exhausted,Neutral,Yes,2,19,Cracked Nipples,Bleeding,Yes
