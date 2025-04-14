@@ -1,0 +1,86 @@
+const express = require('express');
+const Mom = require('../models/Mom');
+
+const router = express.Router();
+
+router.get('/mom', async (req, res) => {
+  try {
+    const userEmail = req.query.email;
+
+    if (!userEmail) {
+      return res.status(400).json({ error: 'Email is required to fetch mom details.' });
+    }
+
+    const mom = await Mom.findOne({ email: userEmail }).lean();
+    if (!mom) {
+      return res.status(404).json({ error: 'Mom with the provided email was not found.' });
+    }
+
+    return res.status(200).json({ mom });
+  } catch (error) {
+    console.error('❌ Error fetching mom details:', error.message || error);
+    return res.status(500).json({ error: 'An unexpected error occurred. Please try again later.' });
+  }
+});
+
+router.get('/child', async (req, res) => {
+  try {
+    const userEmail = req.query.email;
+
+    if (!userEmail) {
+      return res.status(400).json({ error: 'Email is required to fetch child details.' });
+    }
+
+    const mom = await Mom.findOne({ email: userEmail }).lean();
+    if (!mom) {
+      return res.status(404).json({ error: 'Mom with the provided email was not found.' });
+    }
+
+    const childDetails = mom.child || {};
+    if (!childDetails.name) {
+      return res.status(200).json({ child: {} }); 
+    }
+
+    return res.status(200).json({ child: childDetails });
+  } catch (error) {
+    console.error('❌ Error fetching child details:', error.message || error);
+    return res.status(500).json({ error: 'An unexpected error occurred. Please try again later.' });
+  }
+});
+
+router.post('/childupdate', async (req, res) => {
+  try {
+    const { email, healthoverview } = req.body;
+
+    if (!email) {
+      return res.status(400).json({ error: 'Email is required.' });
+    }
+
+    if (!healthoverview || !healthoverview.date || !healthoverview.weight || !healthoverview.height || !healthoverview.temperature) {
+      return res.status(400).json({ error: 'All health overview fields are required.' });
+    }
+
+    const mom = await Mom.findOne({ email: email });
+    if (!mom) {
+      return res.status(404).json({ error: 'Mom with the provided email was not found.' });
+    }
+
+    if (!mom.child) {
+      mom.child = { healthoverview: [] };
+    }
+    if (!mom.child.healthoverview) {
+      mom.child.healthoverview = [];
+    }
+
+    mom.child.healthoverview.push(healthoverview);
+
+    await mom.save();
+
+    return res.status(200).json({ message: 'Health overview updated successfully!' });
+  } catch (error) {
+    console.error('❌ Error updating health overview:', error.message || error);
+    return res.status(500).json({ error: 'An unexpected error occurred. Please try again later.' });
+  }
+});
+
+module.exports = router;

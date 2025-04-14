@@ -1,0 +1,23 @@
+const express = require('express');
+const Babysitter = require('../models/Babysitter');
+
+const router = express.Router();
+
+// Check Babysitter Verification Status
+router.get('/check-verification', async (req, res) => {
+  try {
+    const userEmail = req.query.email;
+    if (!userEmail) {
+      return res.status(400).json({ error: 'Email is required' });
+    }
+
+    const babysitter = await Babysitter.findOne({ email: userEmail });
+    res.json({ verified: babysitter?.verification || false });
+  } catch (error) {
+    console.error('❌ Error:', error);
+    res.status(500).json({ error: 'Internal Server Error' });
+  }
+});
+
+
+module.exports = router;
